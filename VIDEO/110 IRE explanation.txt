@@ -1,8 +1,0 @@
-Use the 110 IRE videos for when you really want to blast people's eyeballs. You can use a track matte to cut out any shape or greyscale image you like. Use this for the sun, extreme transitions, etc.
-They are only 1 second long, so you'll have to loop them if you need longer.
-I don't know if it's possible to go any higher than 110 IRE in Standard Dynamic range.
-
-Currently, only some people on mobile could see the extra brightness. And one person on desktop who had HDR enabled was also able to see it.
-https://www.youtube.com/watch?v=MZTypTMPNCM
-Further explanation:
-https://youtu.be/2qd2mq2bp9s?t=1107

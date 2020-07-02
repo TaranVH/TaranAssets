@@ -1,0 +1,27 @@
+
+Use REAL_film_light_flicker.mov at full screen (or whatever) when you want realistic flickering. You can use a blend mode or whatever. This is a 6000% blur of an old charlie chaplin film where the camera is NOT moving, so the flickering is REAL, not simulated. You can see that there are 3 shots, with the 3rd being the longest. I hate fake flikering, fake handheld, fake film motion, fake film overlays, etc. I always try to get real reference and real motion.
+
+REAL_film_light_flicker.mov is genuine film motion captured from the exact same sequence of 3 still shots. Put it in the following folder (change your user name and AE version name) to add it to your animation presets:
+
+C:\Users\Taran\Documents\Adobe\After Effects 2020\User Presets
+
+BTW, here is the source footage I used for both: (2:36 to 3:00)
+https://youtu.be/6n9ESFJTnHs?t=156
+
+24 seconds isn't nearly enough - I intend to get much more, but I need still shots. TBD.
+
+
+==========================
+
+
+
+Use the 110 IRE videos for when you really want to blast people's eyeballs with bright light. On SOME screens, it is 10% brighter than what video can usually achieve. You can use a track matte to cut out any shape or greyscale image you like. Use this for the sun, extreme transitions, etc.
+They are only 1 second long, so you'll have to loop them if you need longer.
+I don't think it's possible to go any higher than 110 IRE in Standard Dynamic range.
+
+Currently, only some people on mobile could see the extra brightness. And one person on desktop who had HDR enabled was also able to see it.
+https://www.youtube.com/watch?v=MZTypTMPNCM
+Further explanation:
+https://youtu.be/2qd2mq2bp9s?t=1107
+
+UPDATE: I've only tried this 110 IRE trick once, and it didn't really work, so IDK if this is really worth doing...
